@@ -1,4 +1,4 @@
-# bmi_app
+# TeknoSoft_bmi_app
 
 A new Flutter project.
 
